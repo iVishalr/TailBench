@@ -26,7 +26,7 @@ $ wget http://tailbench.csail.mit.edu/tailbench.inputs.tgz
 OR 
 
 ```bash
-$ aria2c http://tailbench.csail.mit.edu/tailbench.inputs.tgz'
+$ aria2c http://tailbench.csail.mit.edu/tailbench.inputs.tgz
 ```
 
 To extract the dataset, type the following command in terminal,
