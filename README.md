@@ -17,7 +17,7 @@ The bash script is present in `tailbench-setup.sh`. We advice executing the scri
 
 # Dataset
 
-Please download the dataset from [TailBench](http://tailbench.csail.mit.edu/tailbench.inputs.tgz). You can also execute the following command in the terminal,
+Please download the dataset from [TailBench Inputs](http://tailbench.csail.mit.edu/tailbench.inputs.tgz). You can also execute the following command in the terminal,
 
 ```bash
 $ wget http://tailbench.csail.mit.edu/tailbench.inputs.tgz
