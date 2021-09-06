@@ -1,4 +1,4 @@
-# Tailbench
+# Tailbench (Deprecated)
 
 Tailbench is a benchmark suite and evaluation methodology for latency-critical applications. Tailbench consists of 9 different applications that can be used to obtain the tail latencies. The 9 applications are `harness, img-dnn, masstree, moses, shore, silo, specjbb, sphinx, xapian`. We have managed to fix all the compiling issues present in the original tailbench code. 
 
